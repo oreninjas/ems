@@ -1,8 +1,8 @@
-# React + Vite
+This is a Employee management website, where u can manage your  Employees.
+This website is based on the simple and faster management solutions!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project Saves The Data on local storage, so there's no backend*
+For this project i've used only react, u might ask where will i save data as i m learning backend sry, for now there's no  DB (database).
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In future this project will getting updates once i learn a Database. :D
